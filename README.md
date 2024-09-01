@@ -1,0 +1,1 @@
+This repository is constructed to demonstrate proficiency in SQL and constructing queries. CSV files are included in the repository in their own folder. Due to the nature of primary and foreign keys used, the files must be imported in this order: departments, dept_manager, titles, employees, salaries, dept_emp.
